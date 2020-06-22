@@ -6,8 +6,7 @@
     "license": "MIT",
 	"source": {
         "url": "https://github.com/ZohaBanam/laravel-meta.git",
-        "type": "git",
-		"reference": "0ac3f7b"
+        "type": "git"
     },
     "require": {
         "illuminate/support": "^5.8|^6.0|^7.0",
